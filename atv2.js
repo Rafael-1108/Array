@@ -4,3 +4,5 @@ let quantidade = musicas.length;
     for (let i = 0; i < quantidade; i++) {
         console.log(musicas[i]);
     }
+
+//Exibindo músicas com for
