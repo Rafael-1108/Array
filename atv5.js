@@ -1,5 +1,5 @@
 let compras = ["Detergente", "Amaciante", "Cloro"];
-    compras.pop([2])
+    compras.pop()
 
 console.log(compras)
 
