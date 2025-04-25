@@ -6,4 +6,4 @@ while (i < notas.length){
     i++;
 }
 
-//Exibindo notas co while;
+//Exibindo notas com while;
