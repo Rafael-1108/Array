@@ -3,4 +3,4 @@ let amigos = ["Joao", "Pedro", "Fabitos"];
 
 console.log(amigos)
 
-//Mudando o nome Fabitos para Fabio
+//Mudando o nome Fabitos para Fabio;
