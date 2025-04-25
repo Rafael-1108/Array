@@ -3,4 +3,4 @@ let comidas = ["Hamburger", "Pizza", "Sorvete"];
 
 console.log(comidas)
 
-//Adicionando uma comida com push
+//Adicionando uma comida com push;
